@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "start": "node server.js",
-    "gen": "node generateData.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "json-server": "^0.17.0",
